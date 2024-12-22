@@ -1,0 +1,1 @@
+The CSS code has an unusual error where the `background-image` property isn't working as expected.  The image path seems correct, but the image isn't displaying.  The `background-color` is being applied, but the image is not overlaying.
