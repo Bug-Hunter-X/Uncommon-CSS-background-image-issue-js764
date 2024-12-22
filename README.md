@@ -1,0 +1,1 @@
+This repository demonstrates a peculiar issue with the CSS `background-image` property.  The image path is verified, and the background color is correctly applied, but the image itself fails to load. The solution file offers a fix for this behavior.  This unusual occurrence may be related to caching, specific browser quirks, or other factors not immediately obvious.
